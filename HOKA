@@ -1,0 +1,9 @@
+// función que convierte la temperatura de grados Fahrenheit a grados Celsius
+function fahrenheitToCelsius(fahrenheit) {
+    return (fahrenheit - 32) * 5 / 9;
+}
+
+// Ejemplo de uso
+let fahrenheit = 100;
+let celsius = fahrenheitToCelsius(fahrenheit);
+console.log(`${fahrenheit} grados Fahrenheit son ${celsius.toFixed(2)} grados Celsius.`);
