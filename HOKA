@@ -1,9 +1,29 @@
-// función que convierte la temperatura de grados Fahrenheit a grados Celsius
-function fahrenheitToCelsius(fahrenheit) {
-    return (fahrenheit - 32) * 5 / 9;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buenes tardes</title>
+</head>
+<body>
 
-// Ejemplo de uso
-let fahrenheit = 100;
-let celsius = fahrenheitToCelsius(fahrenheit);
-console.log(`${fahrenheit} grados Fahrenheit son ${celsius.toFixed(2)} grados Celsius.`);
+</body>
+                                                            <h1>Sin dolor no hay gloria </h1>
+
+                                                            <h1>Sin sacrificio, no hay victoria </h1>
+
+                  <h2>¿Que es el amor?</h2>
+                  <ul>
+                        <li>Amor</li>
+                        <li>Odio</li>
+                        <li>Tristeza</li>
+                        <li>Felicidad</li>
+                  </ul>
+                 
+                 <img src="https://images.squarespace-cdn.com/content/v1/648a4e08ffa2b22e8801bd92/7a735752-fd3f-4835-ac13-cf5f443d0823/IMG_6697.jpg" alt="Github" width="500px">
+                 <p>Visita el sito web memo salinas</p>
+                    <a href="https://www.memosalinas.com">Google</a>
+                
+
+     </body>
+</html>
